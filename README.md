@@ -1,4 +1,4 @@
-# clock_app
+<h1 align="center">Clock_App</h3>
 
 A new Flutter project.
 
